@@ -1,1 +1,3 @@
 # Kairos
+
+pip install customtkinter
